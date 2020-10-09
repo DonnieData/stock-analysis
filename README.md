@@ -21,7 +21,7 @@ Due to increased performance the VBA script runs noticably faster than before re
 
 ![refactor_2017](https://github.com/DonnieData/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png)
 ![refactor 2018](https://github.com/DonnieData/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png)
-## Sumnary 
+## Summary  
 
 What are the advantages or disadvantages of refactoring code?
 -pros
