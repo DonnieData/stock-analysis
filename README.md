@@ -4,11 +4,6 @@
 ## Project Overview / Challenge  
 Refactoring of Visual Basic for Applications (VBA) code used to analyze given stock data by year to improve performance while mainiting original finctionality. 
 
-### Code 
-
-### Data
-
-
 ## results 
 
 Steps taken to refactor the VBA include: 
@@ -21,13 +16,16 @@ Due to increased performance the VBA script runs noticably faster than before re
 
 ![refactor_2017](https://github.com/DonnieData/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png)
 ![refactor 2018](https://github.com/DonnieData/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png)
+
 ## Summary  
 
-What are the advantages or disadvantages of refactoring code?
--pros
-- better orgnaized 
-- code better suited for a task 
+While refarctoring code to increase functionalitly is always a great idea, its importatn to make note of the cons as well as the pros. 
+For example the clear pros of refactoring would be: 
+ - better organized code 
+ - code better suits the task at hand 
+ - code is optimized and runs better 
 
+However refactioring also entails these cons:
 -cons 
 time it takes to redo code with the exat same funcitonality 
 - may make it to specified for certain criteria.
