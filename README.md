@@ -20,6 +20,7 @@ Due to increased performance the VBA script runs noticably faster than before re
 ## Summary  
 
 While refarctoring code to increase functionalitly is always a great idea, its importatn to make note of the cons as well as the pros. 
+
 For example the clear pros of refactoring would be: 
  - better organized code 
  - code better suits the task at hand 
@@ -27,15 +28,9 @@ For example the clear pros of refactoring would be:
 
 However refactioring also entails these cons:
 -cons 
-time it takes to redo code with the exat same funcitonality 
-- may make it to specified for certain criteria.
+- the time it takes to refactor the code may not yield signiifanct enough results 
 - can introduce errors to code in the process to something that already works 
 
-How do these pros and cons apply to refactoring the original VBA script?n the advantages and disadvantages of the original and refactored VBA script (3 pt).
+When considering refactoring code, which at its root is simply making the code more efficient without adding new funcitonailty.
+It is improtant to consider if it is the right choice for you. 
 
-pros 
-- allow better runtime and fucntonailty 
-- 
-
-cons 
-- 
