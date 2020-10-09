@@ -1,7 +1,8 @@
-# Stock Data Analysis / VBA Code Refactoring  
+# Stock Analysis / VBA Code Refactoring  
 
 
-## Project Overview / Challenge  
+## Project Overview 
+  
 Refactoring of Visual Basic for Applications (VBA) code used to analyze given stock data by year to improve performance while maintaining original functionality. 
 
 ## results 
