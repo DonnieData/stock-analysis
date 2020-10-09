@@ -7,7 +7,6 @@ Refactoring of Visual Basic for Applications (VBA) code used to analyze given st
 ### Code 
 
 ### Data
-[!image]
 
 
 ## results 
@@ -20,13 +19,9 @@ Steps taken to refactor the VBA include:
 Refactoring lead to cleaner and more organized code as well as improved performance when running. 
 Due to increased performance the VBA script runs noticably faster than before refarctoring: 
 
-
-
-
-[!image]
-[!image]
-
-## Sumary 
+![refactor_2017](https://github.com/DonnieData/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png)
+![refactor 2018](https://github.com/DonnieData/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png)
+## Sumnary 
 
 What are the advantages or disadvantages of refactoring code?
 -pros
